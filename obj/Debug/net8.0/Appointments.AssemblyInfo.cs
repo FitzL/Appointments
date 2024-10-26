@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Appointments")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95873d6e66399c8a912afb56242f1013cb75410c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Appointments")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Appointments")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
